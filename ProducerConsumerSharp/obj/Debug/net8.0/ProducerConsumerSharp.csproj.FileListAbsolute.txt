@@ -1,0 +1,14 @@
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\bin\Debug\net8.0\ProducerConsumerSharp.exe
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\bin\Debug\net8.0\ProducerConsumerSharp.deps.json
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\bin\Debug\net8.0\ProducerConsumerSharp.runtimeconfig.json
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\bin\Debug\net8.0\ProducerConsumerSharp.dll
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\bin\Debug\net8.0\ProducerConsumerSharp.pdb
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\ProducerConsumerSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\ProducerConsumerSharp.AssemblyInfoInputs.cache
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\ProducerConsumerSharp.AssemblyInfo.cs
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\ProducerConsumerSharp.csproj.CoreCompileInputs.cache
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\ProducerConsumerSharp.dll
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\refint\ProducerConsumerSharp.dll
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\ProducerConsumerSharp.pdb
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\ProducerConsumerSharp.genruntimeconfig.cache
+D:\Lenovo\univer\3курс_2сем\Багатопоточність\3\ProducerConsumerSharp\ProducerConsumerSharp\obj\Debug\net8.0\ref\ProducerConsumerSharp.dll
